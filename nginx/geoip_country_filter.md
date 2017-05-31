@@ -19,7 +19,8 @@ http {
 }
 ```
 
-Add returning 444 if country is not allowed to config inside server
+Add returning 444 if country is not allowed. This goes to to config inside
+server
 ```
 server {
   ...
